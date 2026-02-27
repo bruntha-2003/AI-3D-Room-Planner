@@ -1,4 +1,4 @@
-# AI-Powered 3D Room Planner 🏠✨
+# AI-Powered 3D Room Planner 
 
 An interactive room layout planner with AI-driven furniture 
 suggestions — built for a Hackathon!
